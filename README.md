@@ -1,1 +1,4 @@
-# NPL_Lab_05_3
+- Độ chính xác trên tập dev: 0.8763
+- Ví dụ dự đoán câu mới:
+  - Câu: “I love NLP”
+  - Dự đoán: [('I', 'PRON'), ('love', 'VERB'), ('NLP', 'NUM')]
