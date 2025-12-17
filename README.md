@@ -64,6 +64,5 @@
   - Từ “I” được dự đoán là PRON (đại từ) -> kết quả chính xác.
   - Từ “love” được dự đoán là VERB (động từ) -> kết quả chính xác.
   - Từ “NLP” bị dự đoán là NUM (số) -> đây là một dự đoán không chính xác, vì nhãn đúng nên là PROPN hoặc NOUN.
-
 - Nguyên nhân:
   - Hạn chế của RNN đơn hướng: Mô hình chỉ khai thác ngữ cảnh từ trái sang phải, chưa tận dụng đầy đủ thông tin hai chiều của câu.
